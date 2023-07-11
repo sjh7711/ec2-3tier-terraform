@@ -4,3 +4,4 @@ installT.sh
 sjh
 sjh.pub
 terraform.*
+100_var.tf
